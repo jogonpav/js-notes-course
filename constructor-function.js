@@ -20,7 +20,7 @@ let personNormalFunction = new PersonNormalFunction("jose", "Greetins normal fun
 let personArrowfunction1 = new PersonArrowfunction1("Jhon", "Greetins arrow function 1")
 let personArrowfunction2 = new PersonArrowfunction2("Jhon", personalizedMessage )
 
-personNormalFunction.launchMessage()
+console.log(personNormalFunction.launchMessage())
 
 console.log (personArrowfunction1.launchMessage())
 
