@@ -1,6 +1,6 @@
 //The game consists of guessing a word
 //This game you have attemps to guess a word
-//this 
+//this code is for executing in browser cosole
 correctWord = "apple";
 
 attempts = 3;
